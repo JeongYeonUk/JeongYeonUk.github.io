@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-16T05:21:28.212Z</updated>
+  <updated>2020-02-16T08:00:20.923Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,41 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test</title>
-    <link href="http://yoursite.com/2020/02/16/Test/"/>
-    <id>http://yoursite.com/2020/02/16/Test/</id>
-    <published>2020-02-16T05:21:09.000Z</published>
-    <updated>2020-02-16T05:21:28.212Z</updated>
+    <title>블로그 시작!</title>
+    <link href="http://yoursite.com/2020/02/16/First-Post/"/>
+    <id>http://yoursite.com/2020/02/16/First-Post/</id>
+    <published>2020-02-16T07:59:28.000Z</published>
+    <updated>2020-02-16T08:00:20.923Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Upload-Test"><a href="#Upload-Test" class="headerlink" title="Upload Test"></a>Upload Test</h3>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;Upload-Test&quot;&gt;&lt;a href=&quot;#Upload-Test&quot; class=&quot;headerlink&quot; title=&quot;Upload Test&quot;&gt;&lt;/a&gt;Upload Test&lt;/h3&gt;
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hexo</title>
-    <link href="http://yoursite.com/2020/02/16/hexo/"/>
-    <id>http://yoursite.com/2020/02/16/hexo/</id>
-    <published>2020-02-16T04:58:51.000Z</published>
-    <updated>2020-02-16T05:10:03.068Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Hello-First-Post"><a href="#Hello-First-Post" class="headerlink" title="Hello First Post"></a>Hello First Post</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="블로그-시작"><a href="#블로그-시작" class="headerlink" title="블로그 시작!"></a>블로그 시작!</h3><p>마크다운 사용법이 이게 맞는지 잘 모르겠다</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;Hello-First-Post&quot;&gt;&lt;a href=&quot;#Hello-First-Post&quot; class=&quot;headerlink&quot; title=&quot;Hello First Post&quot;&gt;&lt;/a&gt;Hello First Post&lt;/h3&gt;
+        &lt;h3 id=&quot;블로그-시작&quot;&gt;&lt;a href=&quot;#블로그-시작&quot; class=&quot;headerlink&quot; title=&quot;블로그 시작!&quot;&gt;&lt;/a&gt;블로그 시작!&lt;/h3&gt;&lt;p&gt;마크다운 사용법이 이게 맞는지 잘 모르겠다&lt;/p&gt;
+
       
     
     </summary>
