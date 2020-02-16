@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Yeon&#39;s Blog</title>
   
-  
+  <subtitle>개발자 지망생 Yeon</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-16T08:00:20.923Z</updated>
+  <updated>2020-02-16T04:29:14.986Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>블로그 시작!</title>
-    <link href="http://yoursite.com/2020/02/16/First-Post/"/>
-    <id>http://yoursite.com/2020/02/16/First-Post/</id>
-    <published>2020-02-16T07:59:28.000Z</published>
-    <updated>2020-02-16T08:00:20.923Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="블로그-시작"><a href="#블로그-시작" class="headerlink" title="블로그 시작!"></a>블로그 시작!</h3><p>마크다운 사용법이 이게 맞는지 잘 모르겠다</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;블로그-시작&quot;&gt;&lt;a href=&quot;#블로그-시작&quot; class=&quot;headerlink&quot; title=&quot;블로그 시작!&quot;&gt;&lt;/a&gt;블로그 시작!&lt;/h3&gt;&lt;p&gt;마크다운 사용법이 이게 맞는지 잘 모르겠다&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -53,6 +30,29 @@
       
       
         &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>블로그 시작!</title>
+    <link href="http://yoursite.com/2020/02/15/First-Post/"/>
+    <id>http://yoursite.com/2020/02/15/First-Post/</id>
+    <published>2020-02-15T22:59:28.000Z</published>
+    <updated>2020-02-16T08:00:20.923Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="블로그-시작"><a href="#블로그-시작" class="headerlink" title="블로그 시작!"></a>블로그 시작!</h3><p>마크다운 사용법이 이게 맞는지 잘 모르겠다</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;블로그-시작&quot;&gt;&lt;a href=&quot;#블로그-시작&quot; class=&quot;headerlink&quot; title=&quot;블로그 시작!&quot;&gt;&lt;/a&gt;블로그 시작!&lt;/h3&gt;&lt;p&gt;마크다운 사용법이 이게 맞는지 잘 모르겠다&lt;/p&gt;
+
       
     
     </summary>
